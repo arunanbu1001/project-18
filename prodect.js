@@ -1,4 +1,4 @@
-const products = [
+        const products = [
   {
     brand: "Dell",
     cpu: {
@@ -8,9 +8,9 @@ const products = [
     },
     os: "Windows10",
     ram: {
-      size: 8,
+      size: 8       ,
       unit: "GB",
-    },
+    }, 
     ssd: {
       size: 250,
       unit: "GB",
